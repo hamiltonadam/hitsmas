@@ -3,10 +3,10 @@ var stageData = '{ "stages" : [' +
   // Below is Beginning Stages    
   '{ "location":"Prologue", "name":"Freeform Training", "targets":["Kalvin Ritter"], "weapons":["gun", "bare hands", "drowning", "accident", "environment", "crowbar", "hammer", "wrench", "explosives"], "disguises":["Training Suit", "Bodyguard", "Mechanic", "Terry Norfolk", "Yacht Crew", "Yacht Security"], "localWildcards":[]},' +
   '{ "location":"Prologue", "name":"The Final Test", "targets":["Jasper Knight"], "weapons":["gun", "bare hands", "drowning", "accident", "environment", "wrench", "brick", "bust", "lead pipe", "crowbar", "hammer"], "disguises":["Training Suit","Airfield Security","KGB Officer","Hangar Mechanic","Soviet Soldier"], "localWildcards":[]}, ' +
- '{ "location":"Hawkes Bay", "name":"Nightcall", "targets":["Alma Reynard"], "weapons":[], "disguises":[], "localWildcards":[]},' +
+ '{ "location":"Hawkes Bay", "name":"Nightcall", "targets":["Alma Reynard"], "weapons":["bare hands", cleaver", "katana", "knife", "electrocution", "scissors", "shuriken", "gun", "poison"], "disguises":["Tactical Wetsuit", "Bodyguard"], "localWildcards":[Throw a squeaky toy]},' +
     
   // Below is Hitman 2  
-  '{ "location":"Miami", "name":"The Finish Line", "targets":["Sierra Knox", "Robert Knox"], "weapons":[], "disguises":[], "localWildcards":[]},' +
+  '{ "location":"Miami", "name":"The Finish Line", "targets":["Sierra Knox", "Robert Knox"], "weapons":["bare hands", "gun", "knife", "battle axe", "cleaver", "scissors", "screwdriver", "starfish", "explosion", "poison"], "disguises":["Driver", "Mechanic", "Event Crew", "Event Security", "Florida Man", "Food Vendor", "Journalist", "Kitchen Staff", "Engineer", "Mascot", "Medic", "Sheik", "Pale Rider", "Street Musician", "Race Marshall"], "localWildcards":[]},' +
   '{ "location":"Santa Fortuna", "name":"Three-Headed Serpent", "targets":["Rico Delgado", "Jorge Franco", "Andrea Martinez"], "weapons":[], "disguises":[], "localWildcards":[]},' +
   '{ "location":"Mumbai", "name":"Chasing a Ghost", "targets":["The Maelstrom", "Vanya Shah", "Dawood Rangan"], "weapons":[], "disguises":[], "localWildcards":[]},' +
   '{ "location":"Whittleton Creek", "name":"Another Life", "targets":["Janus", "Nolan Cassidy"], "weapons":[], "disguises":[], "localWildcards":[]},' +
